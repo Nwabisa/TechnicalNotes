@@ -26,6 +26,14 @@ Notes on things I learned & snippets of code that will make my life easier
 
 ```javascript
 // how do I print to the console again?
+//how do i print hello world to the screen?
+console.log("hello World!");
+//how do i write if statement?
+if (condition) {
+   //do this
+}else
+//do something else
+}
 ```
 
 ### A note about something else
