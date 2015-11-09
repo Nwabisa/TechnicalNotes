@@ -28,6 +28,10 @@ Notes on things I learned & snippets of code that will make my life easier
 // how do I print to the console again?
 //how do i print hello world to the screen?
 console.log("hello World!");
+```
+
+### How Do i write if conditional statement
+```javascript
 //how do i write if statement?
 if (condition) {
    //do this
