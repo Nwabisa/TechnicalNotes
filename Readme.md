@@ -7,6 +7,8 @@
 * Useful algoritms using functions (lodash)
 * How does a web application work?
 * Others?
+* Which test is much more better to work on, Mocha/Qunit?
+* Why do we write test?
 
 ## Keep updated
 
