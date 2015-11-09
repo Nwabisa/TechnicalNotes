@@ -59,7 +59,7 @@ describe("In the ferry kata", function(){
 
 //here is an example of a test that is failing
 describe("In the ferry kata", function(){
-it("I should be able to see penguins", function(){
+       it("I should be able to see penguins", function(){
 		//Assemble
 		//Action
 		//Assert
