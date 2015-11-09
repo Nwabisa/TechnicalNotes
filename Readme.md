@@ -1,4 +1,4 @@
-# My Technical Notes
+# Linkie Technical Notes
 
 ## Workshops
 
