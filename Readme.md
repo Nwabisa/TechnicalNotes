@@ -39,6 +39,20 @@ if (condition) {
 //do something else
 }
 ```
+### How to test with mocha
+```javascript
+//test for mocha
+var assert = require("assert");
+
+describe("In the ferry kata", function(){
+	it("I should be able to create cars", function(){
+		//Assemble
+		//Action
+		//Assert
+		assert.equal("car", "car");
+	});
+});
+```
 
 ### A note about something else
 add more here...
