@@ -41,7 +41,11 @@ if (condition) {
 ```
 ### How to test with mocha
 ```javascript
-//test for mocha
+//create a folder ferry
+//run mocha, the test should fail
+//create folder test and the again run mocha it should pass by now
+
+//here is an example of a test that is passing
 var assert = require("assert");
 
 describe("In the ferry kata", function(){
@@ -53,8 +57,6 @@ describe("In the ferry kata", function(){
 	});
 });
 ```
-
-### A note about something else
 add more here...
 
 ### If things get to long...
