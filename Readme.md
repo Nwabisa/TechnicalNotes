@@ -40,10 +40,10 @@ if (condition) {
 }
 ```
 ### How to test with mocha
-```javascript
 * create a folder ferry
 * run mocha, the test should fail
 * create folder test and the again run mocha it should pass by now
+```javascript
 
 //here is an example of a test that is passing
 var assert = require("assert");
